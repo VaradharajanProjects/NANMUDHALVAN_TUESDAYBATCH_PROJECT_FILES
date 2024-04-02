@@ -13,7 +13,9 @@ UNAME: admin
 Password:admin
 
 
-Project Running steps:
+
+
+#Project Running steps:
 
 python manage.py makemigrations
 
